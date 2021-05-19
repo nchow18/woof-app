@@ -1,0 +1,23 @@
+.footer {
+    flex-shrink: 0;
+    background-color: var(--primary);
+    width: 100%;
+    padding: 1rem;
+    color: white;
+}
+
+.footer-left {
+    text-align: left;
+    width:50%;
+    float: left;
+}
+
+.footer-right {
+    text-align: right;
+    width: 50%;
+    float: left;
+}
+
+.footer-link {
+    margin: 0 1rem;
+}
